@@ -14,9 +14,9 @@ import (
 	"log"
 	"strings"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/model"
-	"github.com/sugarme/tokenizer/util"
+	"github.com/gmohmad/tokenizer"
+	"github.com/gmohmad/tokenizer/model"
+	"github.com/gmohmad/tokenizer/util"
 )
 
 type Merges map[Pair]PairVal

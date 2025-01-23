@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/pretrained"
+	"github.com/gmohmad/tokenizer"
+	"github.com/gmohmad/tokenizer/pretrained"
 )
 
 var (

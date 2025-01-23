@@ -16,10 +16,10 @@ package pretrained
 import (
 	"fmt"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/normalizer"
-	"github.com/sugarme/tokenizer/pretokenizer"
-	"github.com/sugarme/tokenizer/util"
+	"github.com/gmohmad/tokenizer"
+	"github.com/gmohmad/tokenizer/normalizer"
+	"github.com/gmohmad/tokenizer/pretokenizer"
+	"github.com/gmohmad/tokenizer/util"
 )
 
 func CreatePreTokenizer(config map[string]interface{}) (tokenizer.PreTokenizer, error) {

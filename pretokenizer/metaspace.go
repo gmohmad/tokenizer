@@ -4,8 +4,8 @@ import (
 	// "log"
 	"strings"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/normalizer"
+	"github.com/gmohmad/tokenizer"
+	"github.com/gmohmad/tokenizer/normalizer"
 )
 
 // Metaspace constructs a Metaspace struct.

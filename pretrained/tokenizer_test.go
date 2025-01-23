@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sugarme/tokenizer"
+	"github.com/gmohmad/tokenizer"
 )
 
 func TestFromFile(t *testing.T) {
